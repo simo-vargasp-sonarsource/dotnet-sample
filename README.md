@@ -110,3 +110,5 @@ vstest.console.exe Dotnet\UnitTestSample\bin\Debug\UnitTestSample.dll /Tests:Ari
 ```
 
 Refer to [vstest console documentation](https://docs.microsoft.com/en-us/visualstudio/test/vstest-console-options?view=vs-2017) for more options regarding **vstest.console.exe** command
+
+test
